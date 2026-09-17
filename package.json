@@ -1,0 +1,24 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/EdricSouza/Node-Estudo#readme",
+  "bugs": {
+    "url": "https://github.com/EdricSouza/Node-Estudo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdricSouza/Node-Estudo.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
